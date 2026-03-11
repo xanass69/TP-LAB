@@ -1,4 +1,19 @@
 # TP-LAB
+🖥️ LAB 1 – Préparation de l’environnement Mobexler
+📋 Aperçu
+
+Ce laboratoire consiste à mettre en place un environnement de test pour le cours “Sécurité des applications mobiles”.
+L’objectif est d’installer et configurer la machine virtuelle Mobexler, de préparer la connexion réseau, et de s’assurer que les appareils Android peuvent interagir avec l’environnement via ADB.
+
+🎯 Objectifs du lab
+
+Déployer une machine virtuelle Mobexler dans VirtualBox
+
+Configurer correctement les interfaces réseau pour Internet et communication locale
+
+Vérifier la connectivité et la résolution DNS
+
+Créer un snapshot de référence pour restaurer l’état initial
 <img width="437" height="256" alt="Capture d&#39;écran 2026-02-16 165427" src="https://github.com/user-attachments/assets/ddc427e7-f54f-4257-ac0f-53ba7da0acab" />
 <img width="434" height="259" alt="Capture d&#39;écran 2026-02-16 165506" src="https://github.com/user-attachments/assets/cb15b347-d17b-49fd-bdbf-19d1253f1a93" />
 <img width="377" height="248" alt="Capture d&#39;écran 2026-02-16 165549" src="https://github.com/user-attachments/assets/5678fe6a-3735-4f48-8f94-d9832ace34e8" />
